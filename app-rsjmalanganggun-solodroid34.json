@@ -73,7 +73,7 @@
   "categories": [
   {
       "category_id": 1,
-      "category_name": "500+ Cute Characters",
+      "category_name": "500 Cute Characters",
       "category_image": "https://i.pinimg.com/564x/66/24/17/662417bc5eed392f70469ca410b2be53.jpg",
       "url": ""
     },
@@ -86,7 +86,7 @@
     },
 	{
       "category_id": 2,
-      "category_name": "200+ Flower and Butterfly",
+      "category_name": "200 Flower and Butterfly",
       "category_image": "https://i.pinimg.com/564x/86/3f/82/863f82eb6d4750ce496757e0bfa3c2c3.jpg",
       "url": ""
     },
@@ -98,7 +98,7 @@
    	},
 	{
       "category_id": 3,
-      "category_name": "200+ Food and Fruits",
+      "category_name": "200 Food and Fruits",
       "category_image": "https://i.pinimg.com/564x/90/0b/1c/900b1c6222f1143c56f17b410df9033d.jpg",
       "url": ""
     },
@@ -111,13 +111,13 @@
     
 	{
       "category_id": 4,
-      "category_name": "200+ Love Heart",
+      "category_name": "200 Love Heart",
       "category_image": "https://i.pinimg.com/564x/0e/dd/eb/0eddeb0af364e24f8711f336b6006435.jpg",
       "url": ""
     },
 	{
       "category_id": 5,
-      "category_name": "200+ Star and Pattern",
+      "category_name": "200 Star and Pattern",
       "category_image": "https://i.pinimg.com/564x/b3/0d/49/b30d49c4527d47cd9714b56b9535cfd5.jpg",
       "url": ""
     },
