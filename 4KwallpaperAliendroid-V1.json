@@ -1,17 +1,17 @@
 {
 	"Ads": [{
-		"select_main_ads": "ADMOB",
-		"select_backup_ads": "FACEBOOK",
+		"select_main_ads": "FACEBOOK",
+		"select_backup_ads": "ADMOB",
 
-		"backup_ads_banner": "",
-		"backup_ads_intertitial": "",
-		"backup_ads_natives": "",
-		"backup_ads_rewards": "",
+		"main_ads_banner": "PL350911184828",
+		"main_ads_intertitial": "test-interstitial",
+		"main_ads_natives": "test-banner",
+		"main_ads_rewards": "test-rewarded",
 
-		"main_ads_banner": "ca-app-pub-3940256099942544/2934735716",
-		"main_ads_intertitial": "ca-app-pub-3940256099942544/4411468910",
-		"main_ads_natives": "ca-app-pub-3940256099942544/3986624511",
-		"main_ads_rewards": "ca-app-pub-3940256099942544/1712485313",
+		"backup_ads_banner": "ca-app-pub-3940256099942544/2934735716",
+		"backup_ads_intertitial": "ca-app-pub-3940256099942544/4411468910",
+		"backup_ads_natives": "ca-app-pub-3940256099942544/3986624511",
+		"backup_ads_rewards": "ca-app-pub-3940256099942544/1712485313",
 
 		"open_ads_admob": "ca-app-pub-3940256099942544/5662855259",
 		"open_ads_alien": "",
@@ -19,7 +19,7 @@
 		"open_ads_wortise": "",
 
 		"on_off_native_listview": "1",
-		"interval_native": 9,
+		"interval_native": 12,
 
 		"interval_intertitial": 3,
 		"initialize_sdk": "",
@@ -141,7 +141,7 @@
 		"name_category": "Sanrio",
 		"title": "Sanrio 590",
 		"image": "https://i.pinimg.com/originals/83/17/d5/8317d5da85b459238d88a57152190030.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 591,
@@ -162,7 +162,7 @@
 		"name_category": "Sanrio",
 		"title": "Sanrio 593",
 		"image": "https://i.pinimg.com/originals/94/aa/8b/94aa8b2ae9f31a9061487ecb20b8e4a2.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 594,
@@ -197,7 +197,7 @@
 		"name_category": "Sanrio",
 		"title": "Sanrio 598",
 		"image": "https://i.pinimg.com/originals/af/f9/f0/aff9f09ac2e3969d65553ad3d06ab4a8.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 599,
@@ -225,7 +225,7 @@
 		"name_category": "Sanrio",
 		"title": "Sanrio 602",
 		"image": "https://i.pinimg.com/originals/3c/22/4b/3c224bf9dfa5da44b2b3e39f44293e19.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 603,
@@ -316,7 +316,7 @@
 		"name_category": "Sanrio",
 		"title": "Sanrio 615",
 		"image": "https://i.pinimg.com/originals/87/73/2a/87732a8cd536e418ee36fae281342fc2.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 616,
@@ -372,7 +372,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1755",
 		"image": "https://i.pinimg.com/originals/b4/f9/59/b4f95983cdbb2622aafe314a24a9a408.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1756,
@@ -407,7 +407,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1760",
 		"image": "https://i.pinimg.com/originals/b5/49/cb/b549cb3ac56c8923b49d0c92968ec4bb.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1761,
@@ -463,7 +463,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1768",
 		"image": "https://i.pinimg.com/originals/5c/9a/75/5c9a75191d3a88cd02930acde822a157.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1769,
@@ -610,7 +610,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1789",
 		"image": "https://i.pinimg.com/originals/7a/a5/0b/7aa50bba9203eef3cbd315b87c4d6a15.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1790,
@@ -701,7 +701,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1802",
 		"image": "https://i.pinimg.com/originals/db/0d/95/db0d95c8973a384c0e9dc9478fb3cf6d.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1803,
@@ -785,7 +785,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1814",
 		"image": "https://i.pinimg.com/originals/3a/e3/0a/3ae30a47637a0d1a145cbfcf6bc46e8f.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1815,
@@ -890,7 +890,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1829",
 		"image": "https://i.pinimg.com/originals/f7/36/49/f7364938c3a6b33263d5720885dbe9b8.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1830,
@@ -1065,7 +1065,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1854",
 		"image": "https://i.pinimg.com/originals/38/6e/2c/386e2c4c661270127e7ace643036f1f5.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1855,
@@ -1142,7 +1142,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1865",
 		"image": "https://i.pinimg.com/originals/64/1b/99/641b99433ecc9b1f47dc618d193de5f3.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1866,
@@ -1247,7 +1247,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1880",
 		"image": "https://i.pinimg.com/originals/c3/cd/98/c3cd986eb737f5ab238efbdc7ae36b06.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1881,
@@ -1317,7 +1317,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1890",
 		"image": "https://i.pinimg.com/originals/f3/1e/03/f31e03d38ecae8b82782338019e07dc3.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1891,
@@ -1345,7 +1345,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1894",
 		"image": "https://i.pinimg.com/originals/a2/41/db/a241db9b0eaba4fb3486938b5e9b38c4.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1895,
@@ -1387,7 +1387,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1900",
 		"image": "https://i.pinimg.com/originals/bc/95/00/bc9500955a1932fde2ff65461fdfc0c1.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1901,
@@ -1450,7 +1450,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1909",
 		"image": "https://i.pinimg.com/originals/e0/eb/bb/e0ebbb89f1f3a17d6e06918ed7811eef.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1910,
@@ -1471,7 +1471,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1912",
 		"image": "https://i.pinimg.com/originals/8f/64/06/8f6406df92a8840c6e855cf014812591.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1913,
@@ -1520,7 +1520,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1919",
 		"image": "https://i.pinimg.com/originals/0f/16/e1/0f16e12191d0a945f762cd86d99a2db7.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1920,
@@ -1604,7 +1604,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1931",
 		"image": "https://i.pinimg.com/originals/f3/f1/88/f3f1888fcdc1badddb062786a8c819eb.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1932,
@@ -1674,7 +1674,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1941",
 		"image": "https://i.pinimg.com/originals/f6/34/89/f63489a8436ae916eea391674e58a23e.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1942,
@@ -1744,7 +1744,7 @@
 		"name_category": "Kawaii Aesthetic",
 		"title": "Kawaii aesthetic 1951",
 		"image": "https://i.pinimg.com/originals/31/df/aa/31dfaab93a600bab336265a0445021bf.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 1952,
@@ -1837,7 +1837,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 9",
 		"image": "https://i.pinimg.com/originals/70/ef/13/70ef13dabeffba85662af993536055e2.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 10,
@@ -1935,7 +1935,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 23",
 		"image": "https://i.pinimg.com/originals/ef/72/96/ef72960d13a8833c4b8ca7be15aba572.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 24,
@@ -1956,7 +1956,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 26",
 		"image": "https://i.pinimg.com/originals/77/62/bc/7762bc24cfe3f12cb4d86f9872d3378d.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 27,
@@ -2005,7 +2005,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 33",
 		"image": "https://i.pinimg.com/originals/50/de/45/50de45d6969f9dd467fc8f294771e9b2.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 34,
@@ -2068,7 +2068,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 42",
 		"image": "https://i.pinimg.com/originals/d4/de/5d/d4de5d521facd47012d0b946f29a70cf.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 43,
@@ -2131,7 +2131,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 51",
 		"image": "https://i.pinimg.com/originals/d9/7d/36/d97d365eb40566d2fb9543d5c64e2b1d.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 52,
@@ -2250,7 +2250,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 68",
 		"image": "https://i.pinimg.com/originals/0e/72/5d/0e725d9c5ba9f807879166cb63e4fb87.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 69,
@@ -2320,7 +2320,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 78",
 		"image": "https://i.pinimg.com/originals/dd/bd/86/ddbd86b1d47d49e6ff227fd451d69d87.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 79,
@@ -2397,7 +2397,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 89",
 		"image": "https://i.pinimg.com/originals/ac/a6/6f/aca66fd4f35025d41cef2506b7902c7f.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 90,
@@ -2460,7 +2460,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 98",
 		"image": "https://i.pinimg.com/originals/90/dc/4e/90dc4ec8a6850b47134cc8767ad162d9.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 99,
@@ -2551,7 +2551,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 111",
 		"image": "https://i.pinimg.com/originals/5d/97/36/5d97368b404fb1f3b9b8d2a4a25c8b3d.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 112,
@@ -2635,7 +2635,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 123",
 		"image": "https://i.pinimg.com/originals/5d/ee/9f/5dee9f0c2074a6fedbc9e05b1c98c75f.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 124,
@@ -2789,7 +2789,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 145",
 		"image": "https://i.pinimg.com/originals/ca/53/5f/ca535f931bf31981f59c2cf2fe13334d.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 146,
@@ -2915,7 +2915,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 163",
 		"image": "https://i.pinimg.com/originals/c4/fb/0a/c4fb0acbb40f348cc1e0a6c5d655d6d6.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 164,
@@ -3013,7 +3013,7 @@
 		"name_category": "Cute Kawaii",
 		"title": "cute kawaii 177",
 		"image": "https://i.pinimg.com/originals/5c/58/77/5c587745a4b0511257ab8321693a1641.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 178,
@@ -3127,7 +3127,7 @@
 		"name_category": "Unicorn",
 		"title": "Unicorn 253",
 		"image": "https://i.pinimg.com/originals/a9/08/aa/a908aa0b0dab6d39eac2a3bcdd86689f.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 254,
@@ -3197,7 +3197,7 @@
 		"name_category": "Unicorn",
 		"title": "Unicorn 263",
 		"image": "https://i.pinimg.com/originals/61/a9/4b/61a94b24904ca6239b664f76a8d44bf4.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 264,
@@ -3407,7 +3407,7 @@
 		"name_category": "Unicorn",
 		"title": "Unicorn 293",
 		"image": "https://i.pinimg.com/originals/4e/96/70/4e9670b3477a06a9ee54650fc9bcc901.jpg",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 294,
@@ -3596,7 +3596,7 @@
 		"name_category": "Unicorn",
 		"title": "Unicorn 320",
 		"image": "https://i.pinimg.com/originals/ca/16/1c/ca161cc033eb65dc5110133fd7597713.png",
-		"lock": false
+		"lock": true
 	},
 	{
 		"id": 321,
