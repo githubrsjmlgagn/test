@@ -57,12 +57,6 @@
 			"image": "https://play-lh.googleusercontent.com/bxPEBNUFgRcb5GepCWZDvj9n9MkMj2nDlZrwA43dtz64PQZbTPlESsKeG4oseXJGRBw=w240-h480-rw",
 			"link": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
 		},
-		{
-			"id": 4,
-			"title": "Preppy Stickers",
-			"image": "https://i.pinimg.com/564x/18/9a/87/189a87b51e3994de132ee69e28eb53a2.jpg",
-			"link": "https://play.google.com/store/apps/details?id=com.preppy.stickersforwa"
-		},
 
 		{
 			"id": 5,
@@ -128,7 +122,13 @@
 			"id": 9,
 			"name_category": "Cute Bear",
 			"image": "https://i.pinimg.com/564x/db/00/92/db0092eb7d08f2c109df852829e8dbc3.jpg"
-		}
+		},
+		{
+			"id": 10,
+			"name_category": "pink wallpaper",
+			"image": "https://i.pinimg.com/564x/91/8e/5e/918e5ee0a96fd68b7ebe09c2eb8e3033.jpg"
+		},
+		
 	],
 
 
