@@ -10,7 +10,7 @@
 
 		"backup_ads_banner": "",
 		"backup_ads_intertitial": "ca-app-pub-3940256099942544/4411468910",
-		"backup_ads_natives": "ca-app-pub-3940256099942544/3986624511",
+		"backup_ads_natives": "",
 		"backup_ads_rewards": "ca-app-pub-3940256099942544/1712485313",
 
 		"open_ads_admob": "ca-app-pub-3940256099942544/5662855259",
@@ -21,7 +21,7 @@
 		"on_off_native_listview": "1",
 		"interval_native": 12,
 
-		"interval_intertitial": 3,
+		"interval_intertitial": 5,
 		"initialize_sdk": "",
 		"initialize_sdk_backup_ads": "",
 
