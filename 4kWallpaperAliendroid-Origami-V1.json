@@ -36,11 +36,13 @@
 		"status_app": "0",
 		"link_redirect": "https://",
 		
+		"protect_app": false,
+		"base64_license_key": "",
+
 		"on_off_category": "0",
 		"on_off_moreapp": "1"
 		
-		"protect_app": false,
-		"base64_license_key": ""
+		
 	}],
 
 	"More": [{
