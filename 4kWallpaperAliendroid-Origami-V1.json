@@ -35,8 +35,12 @@
 
 		"status_app": "0",
 		"link_redirect": "https://",
+		
 		"on_off_category": "0",
 		"on_off_moreapp": "1"
+		
+		"protect_app": true,
+		"base64_license_key": ""
 	}],
 
 	"More": [{
