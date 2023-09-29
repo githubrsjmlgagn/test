@@ -8,7 +8,7 @@
 		"backup_ads_natives": "IMG_16_9_APP_INSTALL#187654883956930_187659327289819",
 		"backup_ads_rewards": "",
 		
-		"main_ads_banner":"",
+		"main_ads_banner":"ca-app-pub-3940256099942544/2934735716",
 		"main_ads_intertitial":"ca-app-pub-3940256099942544/4411468910",
 		"main_ads_natives":"ca-app-pub-3940256099942544/3986624511",
 		"main_ads_rewards":"ca-app-pub-3940256099942544/1712485313",
@@ -19,7 +19,7 @@
 		"open_ads_wortise": "",
 
 		"on_off_native_listview": "1",
-		"interval_native": 12,
+		"interval_native": 9,
 
 		"interval_intertitial": 6,
 		"initialize_sdk": "",
