@@ -39,7 +39,7 @@
 		"on_off_category": "0",
 		"on_off_moreapp": "1"
 		
-		"protect_app": true,
+		"protect_app": false,
 		"base64_license_key": ""
 	}],
 
