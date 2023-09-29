@@ -15,7 +15,7 @@
 		"privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
 	}],
 	"ads": [{
-		"ad_status": 1,
+		"ad_status": 0,
 		"main_ad": "admob",
 		"backup_ad": "fan",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -69,7 +69,7 @@
 	"categories": [{
 			"category_id": 1,
 			"category_name": "Cute Characters",
-			"category_image": "https://i.pinimg.com/564x/80/da/64/80da640bc62f44f23d4d4f7bedc5ac2e.jpg",
+			"category_image": "https://i.pinimg.com/564x/5c/d5/ff/5cd5ff8074403106f028553307dfa611.jpg",
 			"url": ""
 		},
 		{
