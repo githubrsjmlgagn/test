@@ -36,7 +36,7 @@
 		"status_app": "0",
 		"link_redirect": "https://",
 		
-		"protect_app": true,
+		"protect_app": false,
 		"base64_license_key": "",
 
 		"on_off_category": "0",
