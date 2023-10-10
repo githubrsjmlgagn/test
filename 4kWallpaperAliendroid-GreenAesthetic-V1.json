@@ -8,17 +8,17 @@
 		"backup_ads_natives": "",
 		"backup_ads_rewards": "",
 		
-		"main_ads_banner":"ca-app-pub-3940256099942544/2934735716",
-		"main_ads_intertitial":"ca-app-pub-3940256099942544/4411468910",
-		"main_ads_natives":"ca-app-pub-3940256099942544/3986624511",
-		"main_ads_rewards":"ca-app-pub-3940256099942544/1712485313",
+		"main_ads_banner":"",
+		"main_ads_intertitial":"",
+		"main_ads_natives":"",
+		"main_ads_rewards":"",
 
-		"open_ads_admob": "ca-app-pub-3940256099942544/5662855259",
+		"open_ads_admob": "",
 		"open_ads_alien": "",
 		"open_ads_max": "",
 		"open_ads_wortise": "",
 
-		"on_off_native_listview": "1",
+		"on_off_native_listview": "0",
 		"interval_native": 12,
 
 		"interval_intertitial": 6,
@@ -38,9 +38,9 @@
 		
 		"protect_app": false,
 		"base64_license_key": "",
-		"random": "1",
-		"on_off_category": "1",
-		"on_off_moreapp": "1"
+		"random": "0",
+		"on_off_category": "0",
+		"on_off_moreapp": "0"
 		
 		
 	}],
