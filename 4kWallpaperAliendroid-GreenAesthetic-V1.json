@@ -36,7 +36,7 @@
 		"status_app": "0",
 		"link_redirect": "https://",
 		
-		"protect_app": true,
+		"protect_app": false,
 		"base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqxGhb9k2eI1AY+KFlzrN2g5dsqsQjOU0gpkdxdxBuSYlgyO+IXtD//3q1pVg+zEkSIeOcYSOr0lyugvPaFdL1Yx32rqbg4Y6E4AhnJMrAFaNzNdiyY3Yf5jQoyu/bHybvdQVvgyRpaGgRq3FGD/rEqk53kGq4PEvfse7uj/37sEZwTUoftLUhA3y7ZROj9D33luIwOoqVS/hvIo+vVOB2OEncA6XDMP9aYlLyquhvlG3vOfW7qn0PiE8PiLguVVy0dPMLVmGbUvPY4AHGuuTFt+VNAhp3GSKb3xp3S2ZI3oUOG1IQTT9NmxA/OGb559mRj8tRFmsONWwOiiA3FKvrwIDAQAB",
 		"random": "1",
 		"on_off_category": "1",
