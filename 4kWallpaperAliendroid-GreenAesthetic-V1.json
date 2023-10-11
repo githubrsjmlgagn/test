@@ -18,10 +18,10 @@
 		"open_ads_max": "",
 		"open_ads_wortise": "",
 
-		"on_off_native_listview": "0",
+		"on_off_native_listview": "1",
 		"interval_native": 12,
 
-		"interval_intertitial": 1,
+		"interval_intertitial": 6,
 		"initialize_sdk": "",
 		"initialize_sdk_backup_ads": "",
 
