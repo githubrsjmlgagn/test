@@ -1,1 +1,97 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "FACEBOOK",
 
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"backup_ads_natives": "",
+		"backup_ads_rewards": "",
+		
+		"main_ads_banner":"ca-app-pub-3940256099942544/2934735716",
+		"main_ads_intertitial":"ca-app-pub-3940256099942544/4411468910",
+		"main_ads_natives":"ca-app-pub-3940256099942544/3986624511",
+		"main_ads_rewards":"ca-app-pub-3940256099942544/1712485313",
+
+		"open_ads_admob": "ca-app-pub-3940256099942544/5662855259",
+		"open_ads_alien": "",
+		"open_ads_max": "",
+		"open_ads_wortise": "",
+
+		"on_off_native_listview": "1",
+		"interval_native": 12,
+
+		"interval_intertitial": 6,
+		"initialize_sdk": "",
+		"initialize_sdk_backup_ads": "",
+
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+
+		"link_privacy_policy": "https://sites.google.com/view/sidomoelyopublisher",
+
+		"status_app": "0",
+		"link_redirect": "https://",
+		
+		"protect_app": false,
+		"base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqxGhb9k2eI1AY+KFlzrN2g5dsqsQjOU0gpkdxdxBuSYlgyO+IXtD//3q1pVg+zEkSIeOcYSOr0lyugvPaFdL1Yx32rqbg4Y6E4AhnJMrAFaNzNdiyY3Yf5jQoyu/bHybvdQVvgyRpaGgRq3FGD/rEqk53kGq4PEvfse7uj/37sEZwTUoftLUhA3y7ZROj9D33luIwOoqVS/hvIo+vVOB2OEncA6XDMP9aYlLyquhvlG3vOfW7qn0PiE8PiLguVVy0dPMLVmGbUvPY4AHGuuTFt+VNAhp3GSKb3xp3S2ZI3oUOG1IQTT9NmxA/OGb559mRj8tRFmsONWwOiiA3FKvrwIDAQAB",
+		"random": "1",
+		"on_off_category": "1",
+		"on_off_moreapp": "1"
+		
+		
+	}],
+
+	"More": [{
+			"id": 1,
+			"title": "3D Puffy Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/QnJgdTOLylvTYOOafkF48qFL29wYrVgoaMEOevmwZ8fmUjencMdLv9TsD9d-ULUqtg=w2560-h1440-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.kawaii.aesthetic.puffy.wallpaper"
+		},
+		{
+			"id": 2,
+			"title": "Cute Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/V23zbN7PcCSeHOjCzKIM74VxV4AvYn88dkBWqu7Q97yCxchIriK0iyKPngJ3_9xXiQ=w2560-h1440-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
+		},
+		{
+			"id": 3,
+			"title": "Kawaii Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/vzIXIvhYoUVn6pGbeQXLdLBte2e6gjvvQWBY2tZ598t2G6qFNvJlGgMx7Y3NIA7tfIU=w2560-h1440-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
+		},
+
+		{
+			"id": 5,
+			"title": "Pastel Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/j6zU3TDQFr1Is-GrLIChaNpbqhieiSmM8OBu-VcrkpXZlaXzMgywWEq-kmjHxEBErQ=w2560-h1440-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
+		},
+		{
+			"id": 7,
+			"title": "Preppy Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/6snMgDHgNIRB6uUsajc6ICSc6AtlIfLE2Oj0_MBCE18ncQZLJjYwn3CRZMufc3tCIQQj=w2560-h1440-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.preppy.aesthetic"
+		}
+	],
+
+	"Categories": [{
+			"id": 1,
+			"name_category": "Green Aesthetic",
+			"image": "https://i.pinimg.com/originals/7a/d0/47/7ad047690c69673b5432f8e22b50940d.jpg"
+		}
+		
+	],
+
+  "Data": [
+
+
+
+
+
+
+    ]
+}
