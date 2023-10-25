@@ -112,24 +112,6 @@
 			"category_image": "https://i.pinimg.com/564x/f3/b7/8e/f3b78e7128e7615cbb541e2d643dd679.jpg",
 			"url": "https://play.google.com/store/apps/developer?id=Sidomoelyo+Publisher"
 		},
-		{
-			"category_id": 51,
-			"category_name": "3D Puffy Wallpapers",
-			"category_image": "https://play-lh.googleusercontent.com/QnJgdTOLylvTYOOafkF48qFL29wYrVgoaMEOevmwZ8fmUjencMdLv9TsD9d-ULUqtg=w2560-h1440-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.kawaii.aesthetic.puffy.wallpaper"
-		},
-		{
-			"category_id": 52,
-			"category_name": "Cute Kawaii Wallpapers",
-			"category_image": "https://play-lh.googleusercontent.com/vzIXIvhYoUVn6pGbeQXLdLBte2e6gjvvQWBY2tZ598t2G6qFNvJlGgMx7Y3NIA7tfIU=w526-h296-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
-		},
-	  	{
-			"category_id": 53,
-			"category_name": "Cute Sanrio Wallpapers",
-			"category_image": "https://play-lh.googleusercontent.com/lmS1oAMYz706lUuDIWOBHhT1kf3q4Dqn1_-tOMEkgWp3O_GKmcI7qoDCuj_YaZ4Gjz6U=w526-h296-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
-		},
 	  	{
 			"category_id": 54,
 			"category_name": "Preppy Wallpaper",
@@ -141,12 +123,6 @@
 			"category_name": "Green Aesthetic Wallpaper",
 			"category_image": "https://play-lh.googleusercontent.com/ux_xAsenVvLtQJ52VuSZCTvwovcRBLg-CDeTv3wScsYVtAQxA8XtlapxPOOK8E-9d7Y=w416-h235-rw",
 			"url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.aesthetic.sage.green"
-		},
-	  	{
-			"category_id": 56,
-			"category_name": "Aesthetic Wallpapers",
-			"category_image": "https://play-lh.googleusercontent.com/B6xPcuvif7WV85DhbkffCUjFkPhg1nPMFS0KkaM8NTxfWtyka6jyoykRjLUS2YvqHVY=w416-h235-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
 		}
 
 
