@@ -9,7 +9,7 @@
 		"enable_exit_dialog": true,
 		"enable_vpn_access": false,
 		"enable_dark_mode_as_default_theme": true,
-		"enable_more_apps": true,
+		"enable_more_apps": false,
 		"redirect_url": "",
 		"privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
 	}],
@@ -17,14 +17,12 @@
 		"ad_status": 1,
 		"main_ad": "admob",
 		"backup_ad": "fan",
+
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
 		"admob_native_unit_id": "ca-app-pub-3940256099942544/3986624511",
 		"admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-		"ad_manager_banner_unit_id": "/6499/example/banner",
-		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-		"ad_manager_native_unit_id": "/6499/example/native",
-		"ad_manager_app_open_unit_id": "/6499/example/app-open",
+		
 		"fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
 		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
 		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
